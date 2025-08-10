@@ -1,4 +1,6 @@
-# Employee Management System
+<h1 align="center">Employee Management System</h1>
+
+## Overview
 
 A full-stack Employee Management System built with **Spring Boot** for backend and **React/Next.js + TypeScript** for frontend. This application allows for managing employee records, assigning them to departments, and handling CRUD operations.
 
